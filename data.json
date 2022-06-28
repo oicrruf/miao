@@ -1,0 +1,18 @@
+{
+  "columns": [
+    "id",
+    "type",
+    "date",
+    "paid",
+    "optional",
+    "recurring",
+    "name",
+    "amount",
+    "source",
+    "destiny",
+    "category",
+    "available",
+    "priority"
+  ],
+  "data": []
+}
